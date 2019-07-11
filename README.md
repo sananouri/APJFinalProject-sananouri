@@ -1,6 +1,6 @@
 # SecondTermFinalProject
 
-[![Grader Status](https://kntu-grader.herokuapp.com/minimal?repo=SecondTermFinalProject-sananouri&id=9731003)](https://kntu-grader.herokuapp.com/minimal?repo=SecondTermFinalProject-sananouri&id=9731003)
+[![Grader Status](https://kntu-grader.herokuapp.com/minimal?repo=APJFinalProject-sananouri&id=9731003)](https://kntu-grader.herokuapp.com/minimal?repo=APJFinalProject-sananouri&id=9731003)
 
 
 
